@@ -1,7 +1,7 @@
 dependencies:
 - name: accountservice
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: customerservice
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
